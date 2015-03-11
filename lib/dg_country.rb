@@ -1,6 +1,8 @@
 require 'ostruct'
 
 class DgCountry < OpenStruct
+  class NoSuchRegion < ArgumentError; end
+
   REGIONS = %i(asia australasia central_asia japan north_asia south_asia
     south_east_asia africa central_and_southern_africa northern west_africa
     americas central_america_and_the_caribbean north_america south_america
@@ -19,6 +21,11 @@ class DgCountry < OpenStruct
     def by_iso(iso2)
       iso2 = iso2.to_s.downcase
       @@countries_hash[iso2]
+    end
+
+    def by_region(region)
+      raise NoSuchRegion unless REGIONS.include? String(region).to_sym
+      all.select { |country| country.public_send(region) }
     end
   end
 
