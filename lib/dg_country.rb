@@ -5,5 +5,9 @@ class DgCountry < OpenStruct
     def initialize_countries(countries)
       @@countries_hash = countries
     end
+
+    def all
+      @@countries_hash.values
+    end
   end
 end
