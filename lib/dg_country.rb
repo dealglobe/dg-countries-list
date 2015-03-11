@@ -1,7 +1,11 @@
 require 'ostruct'
+require_relative 'concerns/translatable'
 
 module DgCountriesList
   class DgCountry < OpenStruct
+
+    include DgCountriesList::Translatable
+
     class NoSuchRegion < StandardError; end
 
     REGIONS = %i(asia australasia central_asia japan north_asia south_asia
