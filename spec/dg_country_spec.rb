@@ -13,4 +13,22 @@ describe DgCountry do
       expect(DgCountry.all).to match [ad_country, ae_country]
     end
   end
+
+  context "#by_iso" do
+    it 'returns country by iso' do
+      expect(DgCountry.by_iso('ad')).to eql ad_country
+    end
+
+    it 'works with symbols' do
+      expect(DgCountry.by_iso(:ad)).to eql ad_country
+    end
+
+    it 'works with uppercased values' do
+      expect(DgCountry.by_iso("AD")).to eql ad_country
+    end
+
+    it 'return nil if there is no such country' do
+      expect(DgCountry.by_iso(:xz)).to be_nil
+    end
+  end
 end

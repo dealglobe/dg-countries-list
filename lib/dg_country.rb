@@ -9,5 +9,10 @@ class DgCountry < OpenStruct
     def all
       @@countries_hash.values
     end
+
+    def by_iso(iso2)
+      iso2 = iso2.to_s.downcase
+      @@countries_hash[iso2]
+    end
   end
 end
