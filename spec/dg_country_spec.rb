@@ -31,4 +31,13 @@ describe DgCountry do
       expect(DgCountry.by_iso(:xz)).to be_nil
     end
   end
+
+  context "#regions" do
+    it 'return keys that was marked as true' do
+      stub_const("DgCountry::REGIONS", %w(a b c))
+      country = DgCountry.new(a: true, b: false, c: true)
+      expect(country.regions).to match %w(a c)
+    end
+
+  end
 end
