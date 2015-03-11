@@ -1,6 +1,6 @@
 require_relative '../lib/dg_countries_list'
 
-describe DgCountriesList do
+describe DgCountriesList::DgCountriesList do
   context ".parse_file" do
     let(:countries_yml_content) {
       %{
@@ -18,7 +18,7 @@ describe DgCountriesList do
       expect(File).to receive(:open).and_return(countries_yml_content)
     end
 
-    subject { DgCountriesList.send(:parse_file) }
+    subject { DgCountriesList::DgCountriesList.send(:parse_file) }
 
     it "returns hash as result" do
       expect(subject).to be_kind_of Hash
@@ -29,7 +29,7 @@ describe DgCountriesList do
     end
 
     it "values must be DgCountry objects" do
-      expect(subject.values).to all(be_kind_of DgCountry)
+      expect(subject.values).to all(be_kind_of DgCountriesList::DgCountry)
     end
   end
 
@@ -37,9 +37,9 @@ describe DgCountriesList do
     let(:parsed_file) { double(:parsed_file) }
 
     it 'filling with countries DgCountry class' do
-      expect(DgCountriesList).to receive(:parse_file).and_return(parsed_file)
-      expect(DgCountry).to receive(:initialize_countries).with(parsed_file)
-      DgCountriesList.fill_countries!
+      expect(DgCountriesList::DgCountriesList).to receive(:parse_file).and_return(parsed_file)
+      expect(DgCountriesList::DgCountry).to receive(:initialize_countries).with(parsed_file)
+      DgCountriesList::DgCountriesList.fill_countries!
     end
   end
 end

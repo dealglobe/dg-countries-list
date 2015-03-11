@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    dg-countries-list (0.0.1)
+    dg-countries-list (0.1.0)
 
 GEM
   remote: https://rubygems.org/
