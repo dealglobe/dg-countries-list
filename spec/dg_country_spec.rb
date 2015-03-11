@@ -8,13 +8,13 @@ describe DgCountry do
     DgCountry.initialize_countries('ad' => ad_country, 'ae' => ae_country)
   end
 
-  context "#all" do
+  context ".all" do
     it 'returns array of countries' do
       expect(DgCountry.all).to match [ad_country, ae_country]
     end
   end
 
-  context "#by_iso" do
+  context ".by_iso" do
     it 'returns country by iso' do
       expect(DgCountry.by_iso('ad')).to eql ad_country
     end

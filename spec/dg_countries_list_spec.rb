@@ -1,7 +1,7 @@
 require_relative '../lib/dg_countries_list'
 
 describe DgCountriesList do
-  context "#parse_file" do
+  context ".parse_file" do
     let(:countries_yml_content) {
       %{
       - - ad
@@ -33,7 +33,7 @@ describe DgCountriesList do
     end
   end
 
-  context "#fill_countries!" do
+  context ".fill_countries!" do
     let(:parsed_file) { double(:parsed_file) }
 
     it 'filling with countries DgCountry class' do
