@@ -2,7 +2,7 @@ require 'ostruct'
 
 module DgCountriesList
   class DgCountry < OpenStruct
-    class NoSuchRegion < ArgumentError; end
+    class NoSuchRegion < StandardError; end
 
     REGIONS = %i(asia australasia central_asia japan north_asia south_asia
       south_east_asia africa central_and_southern_africa northern west_africa
