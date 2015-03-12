@@ -24,31 +24,31 @@
   - name_en: Africa
     name_zh: "非洲"
 - - central_and_southern_africa
-  - name_en: central and southern africa
+  - name_en: Central and Southern Africa
     name_zh: "中非和南非"
 - - northern
-  - name_en: northern
+  - name_en: Northern
     name_zh: "北非"
 - - west_africa
-  - name_en: west africa
+  - name_en: West Africa
     name_zh: "西非"
 - - americas
   - name_en: Americas
     name_zh: "美洲"
 - - central_america_and_the_caribbean
-  - name_en: central america
+  - name_en: Central America
     name_zh: "中美"
 - - north_america
-  - name_en: north america
+  - name_en: North America
     name_zh: "北美"
 - - south_america
-  - name_en: south america
+  - name_en: South America
     name_zh: "南美"
 - - europe
   - name_en: Europe
     name_zh: "欧洲"
 - - central_and_eastern_europe
-  - name_en: central and eastern europe
+  - name_en: Central and Eastern Europe
     name_zh: "中欧和东欧"
 - - eu
   - name_en: EU
