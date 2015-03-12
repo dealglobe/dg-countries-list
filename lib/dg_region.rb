@@ -14,6 +14,10 @@ module DgCountriesList
       def all
         @@regions_hash.values
       end
+
+      def region_codes
+        @@regions_hash.keys
+      end
     end
 
   end

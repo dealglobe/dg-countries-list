@@ -36,7 +36,7 @@ describe DgCountriesList::DgCountry do
 
   context '.by_region' do
     before(:each) do
-      stub_const("DgCountriesList::DgCountry::REGIONS", %i(africa europe))
+      expect(DgCountriesList::DgRegion).to receive(:region_codes).and_return %i(africa europe)
     end
 
     it 'returns countries with such region' do
@@ -54,7 +54,7 @@ describe DgCountriesList::DgCountry do
 
   context "#regions" do
     it 'return keys that was marked as true' do
-      stub_const("DgCountriesList::DgCountry::REGIONS", %w(a b c))
+      expect(DgCountriesList::DgRegion).to receive(:region_codes).and_return %w(a b c)
       country = DgCountriesList::DgCountry.new(a: true, b: false, c: true)
       expect(country.regions).to match %w(a c)
     end
