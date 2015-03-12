@@ -1,4 +1,5 @@
 require_relative '../lib/dg_country'
+require_relative '../lib/dg_region'
 
 describe DgCountriesList::DgCountry do
   let(:ad_country) { double(:ad, name_zh: "安道尔", name_en: 'Andorra',
@@ -53,10 +54,15 @@ describe DgCountriesList::DgCountry do
   end
 
   context "#regions" do
-    it 'return keys that was marked as true' do
+    let(:region_a) { double(:region_a) }
+    let(:region_c) { double(:region_c) }
+
+    it 'return region instances that was marked as true' do
       expect(DgCountriesList::DgRegion).to receive(:region_codes).and_return %w(a b c)
       country = DgCountriesList::DgCountry.new(a: true, b: false, c: true)
-      expect(country.regions).to match %w(a c)
+      expect(DgCountriesList::DgRegion).to receive(:by_code).with('a').and_return(region_a)
+      expect(DgCountriesList::DgRegion).to receive(:by_code).with('c').and_return(region_c)
+      expect(country.regions).to match [region_a, region_c]
     end
 
   end

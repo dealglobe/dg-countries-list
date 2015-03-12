@@ -29,7 +29,9 @@ module DgCountriesList
     end
 
     def regions
-      DgRegion.region_codes.select { |region| public_send(region) }
+      DgRegion.region_codes.select { |region| public_send(region) }.map do |region|
+        DgRegion.by_code(region)
+      end
     end
   end
 end
