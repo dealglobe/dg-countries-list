@@ -18,6 +18,11 @@ module DgCountriesList
       def region_codes
         @@regions_hash.keys
       end
+
+      def by_code(code)
+        code = code.to_s.downcase
+        @@regions_hash[code]
+      end
     end
 
   end

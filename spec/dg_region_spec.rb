@@ -19,4 +19,22 @@ describe DgCountriesList::DgRegion do
       expect(DgCountriesList::DgRegion.region_codes).to match %w(asia japan)
     end
   end
+
+  context ".by_code" do
+    it 'returns region by code' do
+      expect(DgCountriesList::DgRegion.by_code('japan')).to eql japan_region
+    end
+
+    it 'works with symbols' do
+      expect(DgCountriesList::DgRegion.by_code(:japan)).to eql japan_region
+    end
+
+    it 'works with uppercased values' do
+      expect(DgCountriesList::DgRegion.by_code("Japan")).to eql japan_region
+    end
+
+    it 'return nil if there is no such country' do
+      expect(DgCountriesList::DgRegion.by_code(:xz)).to be_nil
+    end
+  end
 end
