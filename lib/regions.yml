@@ -1,0 +1,70 @@
+---
+- - asia
+  - name_en: Asia
+    name_zh: "亚洲"
+- - australasia
+  - name_en: Australasia
+    name_zh: "澳大拉西亚"
+- - central_asia
+  - name_en: Central Asia
+    name_zh: "中亚"
+- - japan
+  - name_en: Japan
+    name_zh: "日本"
+- - north_asia
+  - name_en: North Asia
+    name_zh: "北亚"
+- - south_asia
+  - name_en: South Asia
+    name_zh: "南亚"
+- - south_east_asia
+  - name_en: South East Asia
+    name_zh: "东南亚"
+- - africa
+  - name_en: Africa
+    name_zh: "非洲"
+- - central_and_southern_africa
+  - name_en: central and southern africa
+    name_zh: "中非和南非"
+- - northern
+  - name_en: northern
+    name_zh: "北非"
+- - west_africa
+  - name_en: west africa
+    name_zh: "西非"
+- - americas
+  - name_en: Americas
+    name_zh: "美洲"
+- - central_america_and_the_caribbean
+  - name_en: central america
+    name_zh: "中美"
+- - north_america
+  - name_en: north america
+    name_zh: "北美"
+- - south_america
+  - name_en: south america
+    name_zh: "南美"
+- - europe
+  - name_en: Europe
+    name_zh: "欧洲"
+- - central_and_eastern_europe
+  - name_en: central and eastern europe
+    name_zh: "中欧和东欧"
+- - eu
+  - name_en: EU
+    name_zh: "欧盟"
+- - northern_europe
+  - name_en: Northern Europe
+    name_zh: "北欧"
+- - southern_europe
+  - name_en: Southern Europe
+    name_zh: "南欧"
+- - western_europe
+  - name_en: Western Europe
+    name_zh: "西欧"
+- - middle_east
+  - name_en: Middle-East
+    name_zh: "中东地区"
+- - gcc
+  - name_en: GCC
+    name_zh: "海湾阿拉伯国家合作委员会"
