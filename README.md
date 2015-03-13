@@ -1,8 +1,8 @@
-# [dg-countires-list]
+# dg-countires-list
 
-[![Code Climate](https://codeclimate.com/github/dealglobe/dg-countries-list/badges/gpa.svg)](https://codeclimate.com/github/dealglobe/dg-countries-list)
+[![Circle CI](https://circleci.com/gh/dealglobe/dg-countries-list/tree/master.svg?style=svg)](https://circleci.com/gh/dealglobe/dg-countries-list/tree/master) [![Code Climate](https://codeclimate.com/github/dealglobe/dg-countries-list/badges/gpa.svg)](https://codeclimate.com/github/dealglobe/dg-countries-list) [![Test Coverage](https://codeclimate.com/github/dealglobe/dg-countries-list/badges/coverage.svg)](https://codeclimate.com/github/dealglobe/dg-countries-list)
 
-All sorts of useful information about countries used in DG project + translation to chinese language.
+All sorts of useful information about countries used in DG project + translations to chinese language.
 
 ## Usage
 
@@ -67,3 +67,8 @@ region.name # => "欧洲"
 ```
 same for Globalize locale, default locale -- en
 
+
+P.S. You can simplify overhead with namespaces by inheriting class from DgCountriesList classes
+```ruby
+class Country < DgCountriesList::DgCountry; end
+```
