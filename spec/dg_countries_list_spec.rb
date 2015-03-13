@@ -34,14 +34,14 @@ describe DgCountriesList::DgCountriesList do
     end
   end
 
-  context ".fill_countries!" do
+  context ".fill_information!" do
     let(:parsed_file) { double(:parsed_file) }
 
     it 'filling with countries DgCountry class' do
       expect(DgCountriesList::DgCountriesList).to receive(:parse_file).and_return(parsed_file).twice
       expect(DgCountriesList::DgCountry).to receive(:initialize_countries).with(parsed_file)
       expect(DgCountriesList::DgRegion).to receive(:initialize_regions).with(parsed_file)
-      DgCountriesList::DgCountriesList.fill_countries!
+      DgCountriesList::DgCountriesList.fill_information!
     end
   end
 end
