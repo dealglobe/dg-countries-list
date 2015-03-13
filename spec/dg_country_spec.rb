@@ -37,7 +37,7 @@ describe DgCountriesList::DgCountry do
 
   context '.by_region' do
     before(:each) do
-      expect(DgCountriesList::DgRegion).to receive(:region_codes).and_return %i(africa europe)
+      expect(DgCountriesList::DgRegion).to receive(:region_codes).and_return %w(africa europe)
     end
 
     it 'returns countries with such region' do

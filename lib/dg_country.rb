@@ -23,7 +23,7 @@ module DgCountriesList
       end
 
       def by_region(region)
-        raise NoSuchRegion unless DgRegion.region_codes.include? String(region).to_sym
+        raise NoSuchRegion unless DgRegion.region_codes.include? String(region)
         all.select { |country| country.public_send(region) }
       end
     end
