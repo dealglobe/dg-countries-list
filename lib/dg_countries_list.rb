@@ -5,8 +5,8 @@ require_relative 'dg_region'
 module DgCountriesList
   class DgCountriesList
     def self.fill_information!
-      DgCountry.initialize_countries self.parse_file('lib/countries.yml', DgCountry)
-      DgRegion.initialize_regions(self.parse_file('lib/regions.yml', DgRegion))
+      DgCountry.initialize_countries self.parse_file(File.expand_path('../countries.yml', __FILE__), DgCountry)
+      DgRegion.initialize_regions(self.parse_file(File.expand_path('../regions.yml', __FILE__), DgRegion))
     end
 
     private
