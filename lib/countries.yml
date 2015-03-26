@@ -1259,7 +1259,7 @@
     western_europe: false
     middle_east: false
     gcc: false
-- - 'cn '
+- - cn
   - name_zh: "中国"
     continent: "亚洲"
     name_en: China
