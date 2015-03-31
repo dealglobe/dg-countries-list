@@ -19,3 +19,5 @@ module DgCountriesList
     end
   end
 end
+
+DgCountriesList::DgCountriesList.fill_information!
