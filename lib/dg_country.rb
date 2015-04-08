@@ -30,7 +30,7 @@ module DgCountriesList
     end
 
     def regions
-      region_keys.map { |region| DgRegion.by_code(region) }
+      regions_keys.map { |region| DgRegion.by_code(region) }
     end
 
     def regions_keys
