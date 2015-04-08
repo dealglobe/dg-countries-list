@@ -1,3 +1,4 @@
+require 'pry'
 require 'ostruct'
 require_relative 'concerns/translatable'
 
@@ -29,9 +30,11 @@ module DgCountriesList
     end
 
     def regions
-      DgRegion.region_codes.select { |region| public_send(region) }.map do |region|
-        DgRegion.by_code(region)
-      end
+      region_keys.map { |region| DgRegion.by_code(region) }
+    end
+
+    def regions_keys
+      DgRegion.region_codes.select { |code| public_send(code) }
     end
   end
 end
