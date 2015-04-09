@@ -15,7 +15,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -45,7 +45,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -75,7 +75,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -105,7 +105,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -135,7 +135,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: true
@@ -165,7 +165,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -195,7 +195,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -225,7 +225,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -255,7 +255,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -285,7 +285,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -315,7 +315,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -345,7 +345,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -375,7 +375,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -405,7 +405,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -435,7 +435,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -465,7 +465,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -495,7 +495,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -525,7 +525,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -555,7 +555,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -585,7 +585,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -615,7 +615,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -645,7 +645,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -675,7 +675,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -705,7 +705,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: true
     americas: false
     central_america: false
@@ -735,7 +735,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -765,7 +765,7 @@
     south_east_asia: true
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -795,7 +795,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -825,7 +825,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -855,7 +855,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: true
@@ -885,7 +885,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -915,7 +915,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -945,7 +945,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -975,7 +975,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: true
@@ -1005,7 +1005,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -1035,7 +1035,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -1065,7 +1065,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -1095,7 +1095,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -1125,7 +1125,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -1155,7 +1155,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -1185,7 +1185,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -1215,7 +1215,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -1245,7 +1245,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -1275,7 +1275,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -1305,7 +1305,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -1335,7 +1335,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: true
@@ -1365,7 +1365,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -1395,7 +1395,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -1425,7 +1425,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -1455,7 +1455,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -1485,7 +1485,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -1515,7 +1515,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -1545,7 +1545,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -1575,7 +1575,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: true
@@ -1605,7 +1605,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: true
@@ -1635,7 +1635,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: false
-    northern: true
+    northern_africa: true
     west_africa: false
     americas: false
     central_america: false
@@ -1665,7 +1665,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -1695,7 +1695,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -1725,7 +1725,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: true
     americas: false
     central_america: false
@@ -1755,7 +1755,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -1785,7 +1785,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -1815,7 +1815,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -1845,7 +1845,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -1875,7 +1875,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -1905,7 +1905,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -1935,7 +1935,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -1965,7 +1965,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -1995,7 +1995,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -2025,7 +2025,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -2055,7 +2055,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -2085,7 +2085,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -2115,7 +2115,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -2145,7 +2145,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -2175,7 +2175,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -2205,7 +2205,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -2235,7 +2235,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -2265,7 +2265,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -2295,7 +2295,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -2325,7 +2325,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -2355,7 +2355,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -2385,7 +2385,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: true
@@ -2415,7 +2415,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -2445,7 +2445,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: true
     americas: false
     central_america: false
@@ -2475,7 +2475,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -2505,7 +2505,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: true
@@ -2535,7 +2535,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -2565,7 +2565,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: true
@@ -2595,7 +2595,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -2625,7 +2625,7 @@
     south_east_asia: true
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -2655,7 +2655,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -2685,7 +2685,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -2715,7 +2715,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -2745,7 +2745,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -2775,7 +2775,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -2805,7 +2805,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -2835,7 +2835,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -2865,7 +2865,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -2895,7 +2895,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -2925,7 +2925,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -2955,7 +2955,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -2985,7 +2985,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -3015,7 +3015,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -3045,7 +3045,7 @@
     south_east_asia: true
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -3075,7 +3075,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -3105,7 +3105,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -3135,7 +3135,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: true
@@ -3152,7 +3152,7 @@
 - - kp
   - name_zh: "朝鲜"
     continent: "亚洲"
-    name_en: Korea, Democratic People's Republic
+    name_en: "Korea, Democratic People's Republic"
     iso_2: KP
     iso_3: PRK
     iso_digit: '408'
@@ -3165,7 +3165,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -3195,7 +3195,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -3225,7 +3225,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -3255,7 +3255,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -3285,7 +3285,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -3315,7 +3315,7 @@
     south_east_asia: true
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -3345,7 +3345,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -3375,7 +3375,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -3405,7 +3405,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -3435,7 +3435,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -3465,7 +3465,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: false
-    northern: true
+    northern_africa: true
     west_africa: false
     americas: false
     central_america: false
@@ -3495,7 +3495,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -3525,7 +3525,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -3555,7 +3555,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -3585,7 +3585,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -3615,7 +3615,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: false
-    northern: true
+    northern_africa: true
     west_africa: false
     americas: false
     central_america: false
@@ -3645,7 +3645,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: false
-    northern: true
+    northern_africa: true
     west_africa: false
     americas: false
     central_america: false
@@ -3675,7 +3675,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -3705,7 +3705,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -3735,7 +3735,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -3765,7 +3765,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -3795,7 +3795,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -3825,7 +3825,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: false
-    northern: true
+    northern_africa: true
     west_africa: false
     americas: false
     central_america: false
@@ -3855,7 +3855,7 @@
     south_east_asia: true
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -3885,7 +3885,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -3915,7 +3915,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -3945,7 +3945,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -3975,7 +3975,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: false
-    northern: true
+    northern_africa: true
     west_africa: false
     americas: false
     central_america: false
@@ -4005,7 +4005,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -4035,7 +4035,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -4065,7 +4065,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -4095,7 +4095,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -4125,7 +4125,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -4155,7 +4155,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: true
@@ -4185,7 +4185,7 @@
     south_east_asia: true
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -4215,7 +4215,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -4245,7 +4245,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -4275,7 +4275,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -4305,7 +4305,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: true
     americas: false
     central_america: false
@@ -4335,7 +4335,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -4365,7 +4365,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: true
@@ -4395,7 +4395,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -4425,7 +4425,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -4455,7 +4455,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -4485,7 +4485,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -4515,7 +4515,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -4545,7 +4545,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -4575,7 +4575,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: true
@@ -4605,7 +4605,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -4635,7 +4635,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -4665,7 +4665,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -4695,7 +4695,7 @@
     south_east_asia: true
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -4725,7 +4725,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -4755,7 +4755,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -4785,7 +4785,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -4815,7 +4815,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: true
@@ -4845,7 +4845,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -4875,7 +4875,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -4905,7 +4905,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -4935,7 +4935,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -4965,7 +4965,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -4995,7 +4995,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -5025,7 +5025,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -5055,7 +5055,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -5085,7 +5085,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -5115,7 +5115,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -5145,7 +5145,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -5175,7 +5175,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: false
-    northern: true
+    northern_africa: true
     west_africa: false
     americas: false
     central_america: false
@@ -5205,7 +5205,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -5235,7 +5235,7 @@
     south_east_asia: true
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -5265,7 +5265,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -5295,7 +5295,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -5325,7 +5325,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -5355,7 +5355,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: true
     americas: false
     central_america: false
@@ -5385,7 +5385,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -5415,7 +5415,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: true
     americas: false
     central_america: false
@@ -5445,7 +5445,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -5475,7 +5475,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -5505,7 +5505,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: false
-    northern: true
+    northern_africa: true
     west_africa: false
     americas: false
     central_america: false
@@ -5535,7 +5535,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: true
@@ -5565,7 +5565,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -5595,7 +5595,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -5625,7 +5625,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: true
@@ -5655,7 +5655,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: false
-    northern: true
+    northern_africa: true
     west_africa: false
     americas: false
     central_america: false
@@ -5685,7 +5685,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: true
     americas: false
     central_america: false
@@ -5715,7 +5715,7 @@
     south_east_asia: true
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -5745,7 +5745,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -5775,7 +5775,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -5805,7 +5805,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -5835,7 +5835,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: false
-    northern: true
+    northern_africa: true
     west_africa: false
     americas: false
     central_america: false
@@ -5865,7 +5865,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -5895,7 +5895,7 @@
     south_east_asia: true
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -5925,7 +5925,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -5955,7 +5955,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -5985,7 +5985,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -6015,7 +6015,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -6045,7 +6045,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -6075,7 +6075,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -6105,7 +6105,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -6135,7 +6135,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -6165,7 +6165,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -6195,7 +6195,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -6225,7 +6225,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -6255,7 +6255,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -6285,7 +6285,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -6315,7 +6315,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: true
     central_america: false
@@ -6345,7 +6345,7 @@
     south_east_asia: true
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -6375,7 +6375,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -6405,7 +6405,7 @@
     south_east_asia: false
     africa: false
     central_and_southern_africa: false
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -6435,7 +6435,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -6465,7 +6465,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
@@ -6495,7 +6495,7 @@
     south_east_asia: false
     africa: true
     central_and_southern_africa: true
-    northern: false
+    northern_africa: false
     west_africa: false
     americas: false
     central_america: false
