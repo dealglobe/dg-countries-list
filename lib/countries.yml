@@ -1263,8 +1263,8 @@
   - name_zh: "中国"
     continent: "亚洲"
     name_en: China
-    iso_2: 'CN '
-    iso_3: 'CHN '
+    iso_2: CN
+    iso_3: CHN
     iso_digit: '156'
     asia: true
     australasia: false
