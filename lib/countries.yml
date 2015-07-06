@@ -2819,36 +2819,6 @@
     western_europe: false
     middle_east: false
     gcc: false
-- - iso 2 digit code
-  - name_zh: Chinese name
-    continent: "大洲"
-    name_en: English Name
-    iso_2: ISO 2 digit code
-    iso_3: ISO 3 digit code
-    iso_digit: 3 digit number
-    asia: false
-    australasia: false
-    central_asia: false
-    japan: false
-    north_asia: false
-    south_asia: false
-    south_east_asia: false
-    africa: false
-    central_and_southern_africa: false
-    northern_africa: false
-    west_africa: false
-    americas: false
-    central_america: false
-    north_america: false
-    south_america: false
-    europe: false
-    central_and_eastern_europe: false
-    eu: false
-    northern_europe: false
-    southern_europe: false
-    western_europe: false
-    middle_east: false
-    gcc: false
 - - it
   - name_zh: "意大利"
     continent: "欧洲"
