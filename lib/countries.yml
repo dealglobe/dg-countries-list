@@ -6481,8 +6481,7 @@
     gcc: false
 - - nr
   - name_zh: "瑙鲁"
-    continent: "Nauru"
-    name_en: Zimbabwe
+    name_en: Nauru
     iso_2: NR
     iso_3: NRU
     iso_digit: '520'
