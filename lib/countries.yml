@@ -1410,7 +1410,7 @@
     middle_east: false
     gcc: false
 - - cy
-  - name_zh: "塞内加尔"
+  - name_zh: "塞浦路斯"
     continent: "欧洲"
     name_en: Cyprus
     iso_2: CY
@@ -5370,7 +5370,7 @@
     middle_east: false
     gcc: false
 - - sn
-  - name_zh: "塞拉利昂"
+  - name_zh: "塞内加尔"
     continent: "非洲"
     name_en: Senegal
     iso_2: SN
