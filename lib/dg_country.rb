@@ -18,7 +18,7 @@ module DgCountriesList
       end
 
       def phone_codes
-        all.map { |country| country.phone_code }
+        all.map(&:phone_code)
       end
 
       def by_iso(iso2)
