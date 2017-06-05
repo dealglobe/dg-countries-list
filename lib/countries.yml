@@ -1437,7 +1437,7 @@
     northern_europe: false
     southern_europe: true
     western_europe: false
-    middle_east: false
+    middle_east: true
     gcc: false
 - - cz
   - name_zh: "捷克"
@@ -1737,7 +1737,7 @@
     northern_europe: false
     southern_europe: false
     western_europe: false
-    middle_east: false
+    middle_east: true
     gcc: false
 - - eh
   - name_zh: "西撒哈拉"
@@ -5907,7 +5907,7 @@
     northern_europe: false
     southern_europe: true
     western_europe: false
-    middle_east: false
+    middle_east: true
     gcc: false
 - - tt
   - name_zh: "特立尼达和多巴哥"
