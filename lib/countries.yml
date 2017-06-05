@@ -36,7 +36,7 @@
     iso_2: AE
     iso_3: ARE
     iso_digit: '784'
-    asia: false
+    asia: true
     australasia: false
     central_asia: false
     japan: false
@@ -636,7 +636,7 @@
     iso_2: BH
     iso_3: BHR
     iso_digit: 048
-    asia: false
+    asia: true
     australasia: false
     central_asia: false
     japan: false
@@ -2676,7 +2676,7 @@
     iso_2: IL
     iso_3: ISR
     iso_digit: '376'
-    asia: false
+    asia: true
     australasia: false
     central_asia: false
     japan: false
@@ -2736,7 +2736,7 @@
     iso_2: IQ
     iso_3: IRQ
     iso_digit: '368'
-    asia: false
+    asia: true
     australasia: false
     central_asia: false
     japan: false
@@ -2766,7 +2766,7 @@
     iso_2: IR
     iso_3: IRN
     iso_digit: '364'
-    asia: false
+    asia: true
     australasia: false
     central_asia: false
     japan: false
@@ -2886,7 +2886,7 @@
     iso_2: JO
     iso_3: JOR
     iso_digit: '400'
-    asia: false
+    asia: true
     australasia: false
     central_asia: false
     japan: false
@@ -3186,7 +3186,7 @@
     iso_2: KW
     iso_3: KWT
     iso_digit: '414'
-    asia: false
+    asia: true
     australasia: false
     central_asia: false
     japan: false
@@ -3306,7 +3306,7 @@
     iso_2: LB
     iso_3: LBN
     iso_digit: '422'
-    asia: false
+    asia: true
     australasia: false
     central_asia: false
     japan: false
@@ -4506,7 +4506,7 @@
     iso_2: OM
     iso_3: OMN
     iso_digit: '512'
-    asia: false
+    asia: true
     australasia: false
     central_asia: false
     japan: false
@@ -4806,7 +4806,7 @@
     iso_2: PS
     iso_3: PST
     iso_digit: '374'
-    asia: false
+    asia: true
     australasia: false
     central_asia: false
     japan: false
@@ -4896,7 +4896,7 @@
     iso_2: QA
     iso_3: QAT
     iso_digit: '634'
-    asia: false
+    asia: true
     australasia: false
     central_asia: false
     japan: false
@@ -5046,7 +5046,7 @@
     iso_2: SA
     iso_3: SAU
     iso_digit: '682'
-    asia: false
+    asia: true
     australasia: false
     central_asia: false
     japan: false
@@ -5526,7 +5526,7 @@
     iso_2: SY
     iso_3: SYR
     iso_digit: '760'
-    asia: false
+    asia: true
     australasia: false
     central_asia: false
     japan: false
@@ -6366,7 +6366,7 @@
     iso_2: YE
     iso_3: YEM
     iso_digit: '887'
-    asia: false
+    asia: true
     australasia: false
     central_asia: false
     japan: false
