@@ -5886,7 +5886,7 @@
     iso_2: TR
     iso_3: TUR
     iso_digit: '792'
-    asia: false
+    asia: true
     australasia: false
     central_asia: false
     japan: false
