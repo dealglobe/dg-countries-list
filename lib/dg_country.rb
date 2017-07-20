@@ -17,6 +17,10 @@ module DgCountriesList
         @@countries_hash.values
       end
 
+      def phone_codes
+        all.map(&:phone_code)
+      end
+
       def by_iso(iso2)
         iso2 = iso2.to_s.downcase
         @@countries_hash[iso2]

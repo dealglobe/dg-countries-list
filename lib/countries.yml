@@ -29,6 +29,7 @@
     western_europe: true
     middle_east: false
     gcc: false
+    phone_code: '376'
 - - ae
   - name_zh: "阿联酋"
     continent: "中东"
@@ -59,6 +60,7 @@
     western_europe: false
     middle_east: true
     gcc: true
+    phone_code: '971'
 - - af
   - name_zh: "阿富汗"
     continent: "亚洲"
@@ -89,6 +91,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '93'
 - - ag
   - name_zh: "安提瓜和巴布达"
     continent: "美洲"
@@ -119,6 +122,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '1268'
 - - ai
   - name_zh: "安圭拉"
     continent: "美洲"
@@ -149,6 +153,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '1264'
 - - al
   - name_zh: "阿尔巴尼亚"
     continent: "欧洲"
@@ -179,6 +184,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '355'
 - - am
   - name_zh: "亚美尼亚"
     continent: "欧洲"
@@ -209,6 +215,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '374'
 - - an
   - name_zh: "荷属安的列斯"
     continent: "美洲"
@@ -239,6 +246,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '599'
 - - ao
   - name_zh: "安哥拉"
     continent: "非洲"
@@ -269,6 +277,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '244'
 - - ar
   - name_zh: "阿根廷"
     continent: "美洲"
@@ -299,6 +308,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '54'
 - - as
   - name_zh: "美属萨摩亚"
     continent: "亚洲"
@@ -329,6 +339,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '1684'
 - - at
   - name_zh: "奥地利"
     continent: "欧洲"
@@ -359,6 +370,7 @@
     western_europe: true
     middle_east: false
     gcc: false
+    phone_code: '43'
 - - au
   - name_zh: "澳大利亚"
     continent: "亚洲"
@@ -389,6 +401,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '61'
 - - aw
   - name_zh: "阿鲁巴"
     continent: "美洲"
@@ -419,6 +432,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '297'
 - - az
   - name_zh: "阿塞拜疆"
     continent: "欧洲"
@@ -449,6 +463,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '994'
 - - ba
   - name_zh: "波斯尼亚和墨塞哥维那"
     continent: "欧洲"
@@ -479,6 +494,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '387'
 - - bb
   - name_zh: "巴巴多斯"
     continent: "美洲"
@@ -509,6 +525,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '1246'
 - - bd
   - name_zh: "孟加拉国"
     continent: "亚洲"
@@ -539,6 +556,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '880'
 - - be
   - name_zh: "比利时"
     continent: "欧洲"
@@ -569,6 +587,7 @@
     western_europe: true
     middle_east: false
     gcc: false
+    phone_code: '32'
 - - bf
   - name_zh: "布基纳法索"
     continent: "非洲"
@@ -599,6 +618,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '226'
 - - bg
   - name_zh: "保加利亚"
     continent: "欧洲"
@@ -629,6 +649,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '359'
 - - bh
   - name_zh: "巴林"
     continent: "中东"
@@ -659,6 +680,7 @@
     western_europe: false
     middle_east: true
     gcc: true
+    phone_code: '973'
 - - bi
   - name_zh: "布隆迪"
     continent: "非洲"
@@ -689,6 +711,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '257'
 - - bj
   - name_zh: "贝宁"
     continent: "非洲"
@@ -719,6 +742,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '229'
 - - bm
   - name_zh: "百慕大"
     continent: "美洲"
@@ -749,6 +773,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '1441'
 - - bn
   - name_zh: "文莱"
     continent: "亚洲"
@@ -779,6 +804,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '673'
 - - bo
   - name_zh: "玻利维亚"
     continent: "美洲"
@@ -809,6 +835,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '591'
 - - br
   - name_zh: "巴西"
     continent: "美洲"
@@ -839,6 +866,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '55'
 - - bs
   - name_zh: "巴哈马"
     continent: "美洲"
@@ -869,6 +897,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '1242'
 - - bt
   - name_zh: "不丹"
     continent: "亚洲"
@@ -899,6 +928,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '975'
 - - bw
   - name_zh: "博茨瓦纳"
     continent: "非洲"
@@ -929,6 +959,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '267'
 - - by
   - name_zh: "白俄罗斯"
     continent: "欧洲"
@@ -959,6 +990,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '375'
 - - bz
   - name_zh: "伯利兹"
     continent: "美洲"
@@ -989,6 +1021,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '501'
 - - ca
   - name_zh: "加拿大"
     continent: "美洲"
@@ -1019,6 +1052,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '1'
 - - cd
   - name_zh: "刚果（金）"
     continent: "非洲"
@@ -1049,6 +1083,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '243'
 - - cf
   - name_zh: "中非"
     continent: "非洲"
@@ -1079,6 +1114,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '236'
 - - cg
   - name_zh: "刚果"
     continent: "非洲"
@@ -1109,6 +1145,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '242'
 - - ch
   - name_zh: "瑞士"
     continent: "欧洲"
@@ -1139,6 +1176,7 @@
     western_europe: true
     middle_east: false
     gcc: false
+    phone_code: '41'
 - - ci
   - name_zh: "科特迪瓦"
     continent: "非洲"
@@ -1169,6 +1207,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '225'
 - - ck
   - name_zh: "库克群岛"
     continent: "亚洲"
@@ -1199,6 +1238,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '682'
 - - cl
   - name_zh: "智利"
     continent: "美洲"
@@ -1229,6 +1269,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '56'
 - - cm
   - name_zh: "喀麦隆"
     continent: "非洲"
@@ -1259,6 +1300,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '237'
 - - cn
   - name_zh: "中国"
     continent: "亚洲"
@@ -1289,6 +1331,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '86'
 - - co
   - name_zh: "哥伦比亚"
     continent: "美洲"
@@ -1319,6 +1362,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '57'
 - - cr
   - name_zh: "哥斯达黎加"
     continent: "美洲"
@@ -1349,6 +1393,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '506'
 - - cu
   - name_zh: "古巴"
     continent: "美洲"
@@ -1379,6 +1424,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '53'
 - - cv
   - name_zh: "佛得角"
     continent: "非洲"
@@ -1409,6 +1455,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '238'
 - - cy
   - name_zh: "塞浦路斯"
     continent: "欧洲"
@@ -1439,6 +1486,7 @@
     western_europe: false
     middle_east: true
     gcc: false
+    phone_code: '357'
 - - cz
   - name_zh: "捷克"
     continent: "欧洲"
@@ -1469,6 +1517,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '420'
 - - de
   - name_zh: "德国"
     continent: "欧洲"
@@ -1499,6 +1548,7 @@
     western_europe: true
     middle_east: false
     gcc: false
+    phone_code: '49'
 - - dj
   - name_zh: "吉布提"
     continent: "非洲"
@@ -1529,6 +1579,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '253'
 - - dk
   - name_zh: "丹麦"
     continent: "欧洲"
@@ -1559,6 +1610,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '45'
 - - dm
   - name_zh: "多米尼克"
     continent: "美洲"
@@ -1589,6 +1641,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '1767'
 - - do
   - name_zh: "多米尼加共和国"
     continent: "美洲"
@@ -1619,6 +1672,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '1'
 - - dz
   - name_zh: "阿尔及利亚"
     continent: "非洲"
@@ -1649,6 +1703,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '213'
 - - ec
   - name_zh: "厄瓜多尔"
     continent: "美洲"
@@ -1679,6 +1734,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '593'
 - - ee
   - name_zh: "爱沙尼亚"
     continent: "欧洲"
@@ -1709,6 +1765,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '372'
 - - eg
   - name_zh: "埃及"
     continent: "非洲"
@@ -1739,6 +1796,7 @@
     western_europe: false
     middle_east: true
     gcc: false
+    phone_code: '20'
 - - eh
   - name_zh: "西撒哈拉"
     continent: "非洲"
@@ -1769,6 +1827,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '212'
 - - er
   - name_zh: "厄立特里亚"
     continent: "非洲"
@@ -1799,6 +1858,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '291'
 - - es
   - name_zh: "西班牙"
     continent: "欧洲"
@@ -1829,6 +1889,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '34'
 - - et
   - name_zh: "埃塞俄比亚"
     continent: "非洲"
@@ -1859,6 +1920,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '251'
 - - fi
   - name_zh: "芬兰"
     continent: "欧洲"
@@ -1889,6 +1951,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '358'
 - - fj
   - name_zh: "斐济"
     continent: "亚洲"
@@ -1919,6 +1982,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '679'
 - - fm
   - name_zh: "密克罗尼西亚"
     continent: "亚洲"
@@ -1949,6 +2013,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '691'
 - - fo
   - name_zh: "法罗群岛"
     continent: "欧洲"
@@ -1979,6 +2044,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '298'
 - - fr
   - name_zh: "法国"
     continent: "欧洲"
@@ -2009,6 +2075,7 @@
     western_europe: true
     middle_east: false
     gcc: false
+    phone_code: '33'
 - - ga
   - name_zh: "加蓬"
     continent: "非洲"
@@ -2039,6 +2106,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '241'
 - - gb
   - name_zh: "英国"
     continent: "欧洲"
@@ -2069,6 +2137,7 @@
     western_europe: true
     middle_east: false
     gcc: false
+    phone_code: '44'
 - - gd
   - name_zh: "格林纳达"
     continent: "美洲"
@@ -2099,6 +2168,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '1473'
 - - ge
   - name_zh: "格鲁吉亚"
     continent: "欧洲"
@@ -2129,6 +2199,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '995'
 - - gf
   - name_zh: "法属圭亚那"
     continent: "美洲"
@@ -2159,6 +2230,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '594'
 - - gh
   - name_zh: "加纳"
     continent: "非洲"
@@ -2189,6 +2261,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '233'
 - - gl
   - name_zh: "格陵兰"
     continent: "欧洲"
@@ -2219,6 +2292,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '299'
 - - gm
   - name_zh: "冈比亚"
     continent: "非洲"
@@ -2249,6 +2323,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '220'
 - - gn
   - name_zh: "几内亚"
     continent: "非洲"
@@ -2279,6 +2354,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '224'
 - - gp
   - name_zh: "瓜德罗普"
     continent: "美洲"
@@ -2309,6 +2385,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '590'
 - - gq
   - name_zh: "赤道几内亚"
     continent: "非洲"
@@ -2339,6 +2416,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '240'
 - - gr
   - name_zh: "希腊"
     continent: "欧洲"
@@ -2369,6 +2447,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '30'
 - - gt
   - name_zh: "危地马拉"
     continent: "美洲"
@@ -2399,6 +2478,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '502'
 - - gu
   - name_zh: "关岛"
     continent: "亚洲"
@@ -2429,6 +2509,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '1671'
 - - gw
   - name_zh: "几内亚比绍"
     continent: "非洲"
@@ -2459,6 +2540,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '245'
 - - gy
   - name_zh: "圭亚那"
     continent: "美洲"
@@ -2489,6 +2571,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '592'
 - - hn
   - name_zh: "洪都拉斯"
     continent: "美洲"
@@ -2519,6 +2602,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '504'
 - - hr
   - name_zh: "克罗地亚"
     continent: "欧洲"
@@ -2549,6 +2633,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '385'
 - - ht
   - name_zh: "海地"
     continent: "美洲"
@@ -2579,6 +2664,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '509'
 - - hu
   - name_zh: "匈牙利"
     continent: "欧洲"
@@ -2609,6 +2695,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '36'
 - - id
   - name_zh: "印度尼西亚"
     continent: "亚洲"
@@ -2639,6 +2726,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '62'
 - - ie
   - name_zh: "爱尔兰"
     continent: "欧洲"
@@ -2669,6 +2757,7 @@
     western_europe: true
     middle_east: false
     gcc: false
+    phone_code: '353'
 - - il
   - name_zh: "以色列"
     continent: "中东"
@@ -2699,6 +2788,7 @@
     western_europe: false
     middle_east: true
     gcc: false
+    phone_code: '972'
 - - in
   - name_zh: "印度"
     continent: "亚洲"
@@ -2729,6 +2819,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '91'
 - - iq
   - name_zh: "伊拉克"
     continent: "中东"
@@ -2759,6 +2850,7 @@
     western_europe: false
     middle_east: true
     gcc: false
+    phone_code: '964'
 - - ir
   - name_zh: "伊朗"
     continent: "中东"
@@ -2789,6 +2881,7 @@
     western_europe: false
     middle_east: true
     gcc: false
+    phone_code: '98'
 - - is
   - name_zh: "冰岛"
     continent: "欧洲"
@@ -2819,6 +2912,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '354'
 - - it
   - name_zh: "意大利"
     continent: "欧洲"
@@ -2849,6 +2943,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '39'
 - - jm
   - name_zh: "牙买加"
     continent: "美洲"
@@ -2879,6 +2974,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '1876'
 - - jo
   - name_zh: "约旦"
     continent: "中东"
@@ -2909,6 +3005,7 @@
     western_europe: false
     middle_east: true
     gcc: false
+    phone_code: '962'
 - - jp
   - name_zh: "日本"
     continent: "亚洲"
@@ -2939,6 +3036,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '81'
 - - ke
   - name_zh: "肯尼亚"
     continent: "非洲"
@@ -2969,6 +3067,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '254'
 - - kg
   - name_zh: "吉尔吉斯斯坦"
     continent: "亚洲"
@@ -2999,6 +3098,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '996'
 - - kh
   - name_zh: "柬埔寨"
     continent: "亚洲"
@@ -3029,6 +3129,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '855'
 - - ki
   - name_zh: "基里巴斯"
     continent: "亚洲"
@@ -3059,6 +3160,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '686'
 - - km
   - name_zh: "科摩罗"
     continent: "非洲"
@@ -3089,6 +3191,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '269'
 - - kn
   - name_zh: "圣基茨和尼维斯"
     continent: "美洲"
@@ -3119,6 +3222,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '1869'
 - - kp
   - name_zh: "朝鲜"
     continent: "亚洲"
@@ -3149,6 +3253,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '850'
 - - kr
   - name_zh: "韩国"
     continent: "亚洲"
@@ -3179,6 +3284,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '82'
 - - kw
   - name_zh: "科威特"
     continent: "中东"
@@ -3209,6 +3315,7 @@
     western_europe: false
     middle_east: true
     gcc: true
+    phone_code: '965'
 - - ky
   - name_zh: "开曼群岛"
     continent: "美洲"
@@ -3239,6 +3346,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '1345'
 - - kz
   - name_zh: "哈萨克斯坦"
     continent: "亚洲"
@@ -3269,6 +3377,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '7'
 - - la
   - name_zh: "老挝"
     continent: "亚洲"
@@ -3299,6 +3408,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '856'
 - - lb
   - name_zh: "黎巴嫩"
     continent: "中东"
@@ -3329,6 +3439,7 @@
     western_europe: false
     middle_east: true
     gcc: false
+    phone_code: '961'
 - - lc
   - name_zh: "圣卢西亚"
     continent: "美洲"
@@ -3359,6 +3470,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '1758'
 - - li
   - name_zh: "列支敦士登"
     continent: "欧洲"
@@ -3389,6 +3501,7 @@
     western_europe: true
     middle_east: false
     gcc: false
+    phone_code: '423'
 - - lk
   - name_zh: "斯里兰卡"
     continent: "亚洲"
@@ -3419,6 +3532,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '94'
 - - lr
   - name_zh: "利比里亚"
     continent: "非洲"
@@ -3449,6 +3563,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '231'
 - - ls
   - name_zh: "莱索托"
     continent: "非洲"
@@ -3479,6 +3594,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '266'
 - - lt
   - name_zh: "立陶宛"
     continent: "欧洲"
@@ -3509,6 +3625,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '370'
 - - lu
   - name_zh: "卢森堡"
     continent: "欧洲"
@@ -3539,6 +3656,7 @@
     western_europe: true
     middle_east: false
     gcc: false
+    phone_code: '352'
 - - lv
   - name_zh: "拉脱维亚"
     continent: "欧洲"
@@ -3569,6 +3687,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '371'
 - - ly
   - name_zh: "利比亚"
     continent: "非洲"
@@ -3599,6 +3718,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '218'
 - - ma
   - name_zh: "摩洛哥"
     continent: "非洲"
@@ -3629,6 +3749,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '212'
 - - mc
   - name_zh: "摩纳哥"
     continent: "欧洲"
@@ -3659,6 +3780,7 @@
     western_europe: true
     middle_east: false
     gcc: false
+    phone_code: '377'
 - - md
   - name_zh: "摩尔多瓦"
     continent: "欧洲"
@@ -3689,6 +3811,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '373'
 - - mg
   - name_zh: "马达加斯加"
     continent: "非洲"
@@ -3719,6 +3842,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '261'
 - - mh
   - name_zh: "马绍尔群岛"
     continent: "亚洲"
@@ -3749,6 +3873,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '692'
 - - mk
   - name_zh: "马其顿"
     continent: "欧洲"
@@ -3779,6 +3904,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '389'
 - - ml
   - name_zh: "马里"
     continent: "非洲"
@@ -3809,6 +3935,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '223'
 - - mm
   - name_zh: "缅甸"
     continent: "亚洲"
@@ -3839,6 +3966,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '95'
 - - mn
   - name_zh: "蒙古"
     continent: "亚洲"
@@ -3869,6 +3997,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '976'
 - - mp
   - name_zh: "北马里亚纳"
     continent: "亚洲"
@@ -3899,6 +4028,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '1670'
 - - mq
   - name_zh: "马提尼克"
     continent: "美洲"
@@ -3929,6 +4059,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '596'
 - - mr
   - name_zh: "毛里塔尼亚"
     continent: "非洲"
@@ -3959,6 +4090,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '222'
 - - ms
   - name_zh: "蒙特塞拉特"
     continent: "美洲"
@@ -3989,6 +4121,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '1664'
 - - mt
   - name_zh: "马耳他"
     continent: "欧洲"
@@ -4019,6 +4152,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '356'
 - - mu
   - name_zh: "毛里求斯"
     continent: "非洲"
@@ -4049,6 +4183,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '230'
 - - mv
   - name_zh: "马尔代夫"
     continent: "亚洲"
@@ -4079,6 +4214,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '960'
 - - mw
   - name_zh: "马拉维"
     continent: "非洲"
@@ -4109,6 +4245,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '265'
 - - mx
   - name_zh: "墨西哥"
     continent: "美洲"
@@ -4139,6 +4276,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '52'
 - - my
   - name_zh: "马来西亚"
     continent: "亚洲"
@@ -4169,6 +4307,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '60'
 - - mz
   - name_zh: "莫桑比克"
     continent: "非洲"
@@ -4199,6 +4338,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '258'
 - - na
   - name_zh: "纳米比亚"
     continent: "非洲"
@@ -4229,6 +4369,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '264'
 - - nc
   - name_zh: "新喀里多尼亚"
     continent: "亚洲"
@@ -4259,6 +4400,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '687'
 - - ne
   - name_zh: "尼日尔"
     continent: "非洲"
@@ -4289,6 +4431,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '227'
 - - ng
   - name_zh: "尼日利亚"
     continent: "非洲"
@@ -4319,6 +4462,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '234'
 - - ni
   - name_zh: "尼加拉瓜"
     continent: "美洲"
@@ -4349,6 +4493,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '505'
 - - nl
   - name_zh: "荷兰"
     continent: "欧洲"
@@ -4379,6 +4524,7 @@
     western_europe: true
     middle_east: false
     gcc: false
+    phone_code: '31'
 - - 'no'
   - name_zh: "挪威"
     continent: "欧洲"
@@ -4409,6 +4555,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '47'
 - - np
   - name_zh: "尼泊尔"
     continent: "亚洲"
@@ -4439,6 +4586,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '977'
 - - nu
   - name_zh: "纽埃"
     continent: "亚洲"
@@ -4469,6 +4617,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '683'
 - - nz
   - name_zh: "新西兰"
     continent: "亚洲"
@@ -4499,6 +4648,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '64'
 - - om
   - name_zh: "阿曼"
     continent: "中东"
@@ -4529,6 +4679,7 @@
     western_europe: false
     middle_east: true
     gcc: true
+    phone_code: '968'
 - - pa
   - name_zh: "巴拿马"
     continent: "美洲"
@@ -4559,6 +4710,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '507'
 - - pe
   - name_zh: "秘鲁"
     continent: "美洲"
@@ -4589,6 +4741,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '51'
 - - pf
   - name_zh: "法属波利尼西亚"
     continent: "亚洲"
@@ -4619,6 +4772,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '689'
 - - pg
   - name_zh: "巴布亚新几内亚"
     continent: "亚洲"
@@ -4649,6 +4803,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '675'
 - - ph
   - name_zh: "菲律宾"
     continent: "亚洲"
@@ -4679,6 +4834,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '63'
 - - pk
   - name_zh: "巴基斯坦"
     continent: "亚洲"
@@ -4709,6 +4865,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '92'
 - - pl
   - name_zh: "波兰"
     continent: "欧洲"
@@ -4739,6 +4896,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '48'
 - - pn
   - name_zh: "皮特凯恩岛"
     continent: "亚洲"
@@ -4769,6 +4927,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '872'
 - - pr
   - name_zh: "波多黎各"
     continent: "美洲"
@@ -4799,6 +4958,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '1'
 - - ps
   - name_zh: "巴勒斯坦"
     continent: "中东"
@@ -4829,6 +4989,7 @@
     western_europe: false
     middle_east: true
     gcc: false
+    phone_code: '970'
 - - pt
   - name_zh: "葡萄牙"
     continent: "欧洲"
@@ -4859,6 +5020,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '351'
 - - py
   - name_zh: "巴拉圭"
     continent: "美洲"
@@ -4889,6 +5051,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '595'
 - - qa
   - name_zh: "卡塔尔"
     continent: "中东"
@@ -4919,6 +5082,7 @@
     western_europe: false
     middle_east: true
     gcc: true
+    phone_code: '974'
 - - re
   - name_zh: "留尼旺"
     continent: "非洲"
@@ -4949,6 +5113,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '262'
 - - ro
   - name_zh: "罗马尼亚"
     continent: "欧洲"
@@ -4979,6 +5144,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '40'
 - - ru
   - name_zh: "俄罗斯"
     continent: "欧洲"
@@ -5009,6 +5175,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '7'
 - - rw
   - name_zh: "卢旺达"
     continent: "非洲"
@@ -5039,6 +5206,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '250'
 - - sa
   - name_zh: "沙特阿拉伯"
     continent: "中东"
@@ -5069,6 +5237,7 @@
     western_europe: false
     middle_east: true
     gcc: true
+    phone_code: '966'
 - - sb
   - name_zh: "所罗门群岛"
     continent: "亚洲"
@@ -5099,6 +5268,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '677'
 - - sc
   - name_zh: "塞舌尔"
     continent: "亚洲"
@@ -5129,6 +5299,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '248'
 - - sd
   - name_zh: "苏丹"
     continent: "非洲"
@@ -5159,6 +5330,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '249'
 - - se
   - name_zh: "瑞典"
     continent: "欧洲"
@@ -5189,6 +5361,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '46'
 - - sg
   - name_zh: "新加坡"
     continent: "亚洲"
@@ -5219,6 +5392,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '65'
 - - sh
   - name_zh: "圣赫勒拿"
     continent: "非洲"
@@ -5249,6 +5423,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '290'
 - - si
   - name_zh: "斯洛文尼亚"
     continent: "欧洲"
@@ -5279,6 +5454,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '386'
 - - sk
   - name_zh: "斯洛伐克"
     continent: "欧洲"
@@ -5309,6 +5485,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '421'
 - - sl
   - name_zh: "塞拉利昂"
     continent: "非洲"
@@ -5339,6 +5516,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '232'
 - - sm
   - name_zh: "圣马力诺"
     continent: "欧洲"
@@ -5369,6 +5547,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '378'
 - - sn
   - name_zh: "塞内加尔"
     continent: "非洲"
@@ -5399,6 +5578,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '221'
 - - so
   - name_zh: "索马里"
     continent: "非洲"
@@ -5429,6 +5609,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '252'
 - - sr
   - name_zh: "苏里南"
     continent: "美洲"
@@ -5459,6 +5640,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '597'
 - - st
   - name_zh: "圣多美及普林西比"
     continent: "非洲"
@@ -5489,6 +5671,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '239'
 - - sv
   - name_zh: "萨尔瓦多"
     continent: "美洲"
@@ -5519,6 +5702,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '503'
 - - sy
   - name_zh: "叙利亚"
     continent: "中东"
@@ -5549,6 +5733,7 @@
     western_europe: false
     middle_east: true
     gcc: false
+    phone_code: '963'
 - - sz
   - name_zh: "斯威士兰"
     continent: "非洲"
@@ -5579,6 +5764,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '268'
 - - tc
   - name_zh: "特克斯和凯科斯群岛"
     continent: "美洲"
@@ -5609,6 +5795,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '1649'
 - - td
   - name_zh: "乍得"
     continent: "非洲"
@@ -5639,6 +5826,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '235'
 - - tg
   - name_zh: "多哥"
     continent: "非洲"
@@ -5669,6 +5857,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '228'
 - - th
   - name_zh: "泰国"
     continent: "亚洲"
@@ -5699,6 +5888,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '66'
 - - tj
   - name_zh: "塔吉克斯坦"
     continent: "亚洲"
@@ -5729,6 +5919,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '992'
 - - tk
   - name_zh: "托克劳"
     continent: "亚洲"
@@ -5759,6 +5950,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '690'
 - - tm
   - name_zh: "土库曼斯坦"
     continent: "亚洲"
@@ -5789,6 +5981,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '993'
 - - tn
   - name_zh: "突尼斯"
     continent: "非洲"
@@ -5819,6 +6012,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '216'
 - - to
   - name_zh: "汤加"
     continent: "亚洲"
@@ -5849,6 +6043,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '676'
 - - tp
   - name_zh: "东帝汶"
     continent: "亚洲"
@@ -5879,6 +6074,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '670'
 - - tr
   - name_zh: "土耳其"
     continent: "欧洲"
@@ -5909,6 +6105,7 @@
     western_europe: false
     middle_east: true
     gcc: false
+    phone_code: '90'
 - - tt
   - name_zh: "特立尼达和多巴哥"
     continent: "美洲"
@@ -5939,6 +6136,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '1868'
 - - tv
   - name_zh: "图瓦卢"
     continent: "亚洲"
@@ -5969,6 +6167,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '688'
 - - tz
   - name_zh: "坦桑尼亚"
     continent: "非洲"
@@ -5999,6 +6198,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '255'
 - - ua
   - name_zh: "乌克兰"
     continent: "欧洲"
@@ -6029,6 +6229,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '380'
 - - ug
   - name_zh: "乌干达"
     continent: "非洲"
@@ -6059,6 +6260,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '256'
 - - um
   - name_zh: "美属维尔京群岛"
     continent: "美洲"
@@ -6089,6 +6291,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '1'
 - - us
   - name_zh: "美国"
     continent: "美洲"
@@ -6119,6 +6322,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '1'
 - - uy
   - name_zh: "乌拉圭"
     continent: "美洲"
@@ -6149,6 +6353,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '598'
 - - uz
   - name_zh: "乌兹别克斯坦"
     continent: "亚洲"
@@ -6179,6 +6384,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '998'
 - - va
   - name_zh: "梵蒂冈"
     continent: "欧洲"
@@ -6209,6 +6415,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '39'
 - - vc
   - name_zh: "圣文森特和格林纳丁斯"
     continent: "美洲"
@@ -6239,6 +6446,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '1784'
 - - ve
   - name_zh: "委内瑞拉"
     continent: "美洲"
@@ -6269,6 +6477,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '58'
 - - vg
   - name_zh: "英属维尔京群岛"
     continent: "美洲"
@@ -6299,6 +6508,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '1284'
 - - vn
   - name_zh: "越南"
     continent: "亚洲"
@@ -6329,6 +6539,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '84'
 - - vu
   - name_zh: "瓦努阿图"
     continent: "亚洲"
@@ -6359,6 +6570,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '678'
 - - ye
   - name_zh: "也门"
     continent: "中东"
@@ -6389,6 +6601,7 @@
     western_europe: false
     middle_east: true
     gcc: false
+    phone_code: '967'
 - - za
   - name_zh: "南非"
     continent: "非洲"
@@ -6419,6 +6632,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '27'
 - - zm
   - name_zh: "赞比亚"
     continent: "非洲"
@@ -6449,6 +6663,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '260'
 - - zw
   - name_zh: "津巴布韦"
     continent: "非洲"
@@ -6479,6 +6694,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '263'
 - - nr
   - name_zh: "瑙鲁"
     name_en: Nauru
@@ -6508,6 +6724,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '674'
 - - pw
   - name_zh: "帕劳"
     name_en: Palau
@@ -6537,6 +6754,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '680'
 - - ws
   - name_zh: "萨摩亚"
     name_en: Samoa
@@ -6566,6 +6784,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '685'
 - - me
   - name_zh: "黑山"
     name_en: Montenegro
@@ -6595,6 +6814,7 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '382'
 - - rs
   - name_zh: "塞尔维亚"
     name_en: Serbia
@@ -6624,9 +6844,10 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '381'
 - - ss
   - name_zh: "南苏丹"
-    name_en: 'South Sudan'
+    name_en: South Sudan
     iso_2: SS
     iso_3: SSD
     iso_digit: '728'
@@ -6653,3 +6874,4 @@
     western_europe: false
     middle_east: false
     gcc: false
+    phone_code: '211'
